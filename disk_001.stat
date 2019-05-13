@@ -1,0 +1,14 @@
+ Program execution started at Tue Oct 30 12:33:51 2018
+ Command line arguments:
+ L:/formula/disk_proverka/disk.fem
+ -optskip
+ -aif
+  
+  
+ *** ERROR # 1000 *** in the input data:
+ Incorrect data in field # 3.
+  
+ ****************
+ Too many error messages. Aborting run.
+ Current limit is 10000. Use "MSGLMT" control card to change this value.
+  
